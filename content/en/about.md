@@ -4,23 +4,24 @@ type: about
 sidebar:
   exclude: true
 ---
-#### He Xi 2077 / justlovemaki
 
-> A decade of code, fingertips cool, frustrations brewing.
-> Then AI's thunder crashed, and now I'm ready to rock the digital sky!
+#### 👋 何夕2077 / justlovemaki
 
-#### My Coding Philosophy
+> 十载代码指尖凉，胸中块垒郁未扬。
+> 忽闻智能风雷动，誓向云天搏一场。
 
-> Technology, at its core, is all about serving the people.
+#### 🚀 我的代码哲学
 
-#### My Top Projects
+> 技术为人民服务
 
-*   **[Open Source Contribution/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API)**:
-    *   **AIClient-2-API** is a powerful API proxy service. It wraps client-only large language model (LLM) capabilities – like those from Gemini CLI, Antigravity, Qwen Code, and Kiro – into a local OpenAI-compatible interface. Plus, it supports account pool management, intelligent polling, automatic failover, and system prompt management. Pretty neat, huh?
-*   **[Open Source Contribution/OpenClaw-Docker-CN-IM](https://github.com/justlovemaki/OpenClaw-Docker-CN-IM)**:
-    *   **OpenClaw-Docker-CN-IM** is an integrated Docker image for OpenClaw's Chinese IM plugins. This bad boy comes pre-installed and configured with plugins for mainstream Chinese IM platforms like Feishu, DingTalk, QQ Bot, and WeChat Work, making it super quick to deploy a multi-platform AI bot gateway.
-*   Wanna see more? Check out my [GitHub](https://github.com/justlovemaki).
+#### ✨ 代表作
 
-#### What I'm Into Right Now
+*   **[开源贡献/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API)**:
+    *   一个强大的 API 代理服务，可将 Gemini CLI、Antigravity、Qwen Code、Kiro 等仅限客户端使用的大模型能力，封装为本地 OpenAI 兼容接口，并支持账号池管理、智能轮询、自动故障转移与系统提示词管理。
+*   **[开源贡献/OpenClaw-Docker-CN-IM](https://github.com/justlovemaki/OpenClaw-Docker-CN-IM)**:
+    *   OpenClaw 中国 IM 插件整合版 Docker 镜像，预装并配置飞书、钉钉、QQ 机器人、企业微信等主流中国 IM 平台插件，可快速部署支持多平台的 AI 机器人网关。
+*   更多项目细节请见我的 [GitHub](https://github.com/justlovemaki)。
 
-**LLM applications and website SEO** are totally grabbing my attention right now! I'm super keen on them and actively diving deep into learning and hands-on practice.
+#### 🌱 当前探索
+
+对 LLM应用、网站SEO 抱有浓厚兴趣，并正在积极投入学习与实践。
