@@ -36,12 +36,12 @@ Hexi 2077's AI News Hub
 
 {{< cards cols="3" >}}
 <!-- LATEST_6_CARDS_START -->
-{{< card link="/en/2026-05/2026-05-05" title="AI News Daily 2026/05/05" subtitle="OpenAI重构WebRTC低延迟语音架构，FLUX推超写实LoRA，Cursor及可灵AI功能大幅升级 港理工开源思考型手语翻译模型，新型注意力攻击秒破LLaMA-3安全对齐防御，科研图谱发布 Be" icon="calendar" >}}
+{{< card link="/en/2026-05/2026-05-07" title="AI News Daily 2026/05/07" subtitle="Claude 推出智能体梦境功能，Claude上线托管代理功能，Excel深度集成办公助手 OpenSeeker-v2挑战搜索垄断，CropVLM助力精准农业，发布ClawMark评测及动漫模型 Op" icon="calendar" >}}
+  {{< card link="/en/2026-05/2026-05-06" title="AI News Daily 2026/05/06" subtitle="OpenAI发GPT-5.5即刻版，智能体手机曝光，联发科供芯二七年量产 Meta网页推十六路智能体并发，Chrome静默装大模型并占巨量空间 MotionCache六倍提速视频生成，TabPFN实现" icon="calendar" >}}
+  {{< card link="/en/2026-05/2026-05-05" title="AI News Daily 2026/05/05" subtitle="OpenAI重构WebRTC低延迟语音架构，FLUX推超写实LoRA，Cursor及可灵AI功能大幅升级 港理工开源思考型手语翻译模型，新型注意力攻击秒破LLaMA-3安全对齐防御，科研图谱发布 Be" icon="calendar" >}}
   {{< card link="/en/2026-05/2026-05-04" title="AI News Daily 2026/05/04" subtitle="Anthropic's annualized revenue blasts past $44 billion, with official" icon="calendar" >}}
   {{< card link="/en/2026-05/2026-05-03" title="AI News Daily 2026/05/03" subtitle="Holographic interaction with millisecond response, JEPA World Model breakthrough," icon="calendar" >}}
   {{< card link="/en/2026-05/2026-05-02" title="AI News Daily 2026/05/02" subtitle="GPT-5.5's first-week revenue is explosive, Anthropic's developer conference" icon="calendar" >}}
-  {{< card link="/en/2026-05/2026-05-01" title="AI News Daily 2026/05/01" subtitle="Stripe releases 288 financial infrastructure updates, Grok 4.3 tops performance" icon="calendar" >}}
-  {{< card link="/en/2026-04/2026-04-30" title="AI News Daily 2026/04/30" subtitle="Google Gemini lands in GM in-car, UCP protocol ushers in agent-based" icon="calendar" >}}
 <!-- LATEST_6_CARDS_END -->
 {{< /cards >}}
 
@@ -53,7 +53,7 @@ Hexi 2077's AI News Hub
 The [AI Weekly](/en/blog/weekly/) is seriously your ultimate starting point if you're just diving into AI! This must-have resource helps you quickly get a handle on key industry shifts, ensuring you won't get drowned in fragmented info. Get ready to supercharge your learning, fast!
 
 <h3>2. Stay in Daily Sync</h3>
-The [AI Daily Archive](/en/2026-05/2026-05-05) is your daily dose to stay absolutely on top of everything AI! Honestly, just 5 minutes here each day keeps you perfectly aligned with the global AI rhythm. Keep your edge and never miss a beat!
+The [AI Daily Archive](/en/2026-05/2026-05-07) is your daily dose to stay absolutely on top of everything AI! Honestly, just 5 minutes here each day keeps you perfectly aligned with the global AI rhythm. Keep your edge and never miss a beat!
 
 <h3>3. Explore Deeper Practice</h3>
 The [Blog](/en/blog/) is your go-to for deep dives and hands-on practice, especially if you're keen to really geek out! This section is loaded with structured guides on AI tools, workflows, and seriously boosting your productivity. Go ahead, unleash your inner tech guru!
